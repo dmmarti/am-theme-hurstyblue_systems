@@ -106,7 +106,7 @@ fe.load_module( "conveyor" );
 //local wheel_y = [ fly*0.78, fly*0.78, fly*0.78, fly*0.78, fly*0.78, fly*0.78, fly*0.76, fly*0.78, fly*0.78, fly*0.78, fly*0.78, fly*0.78, ];
 
 local wheel_x = [ flx*0.04, flx* 0.04, flx* 0.04, flx* 0.04, flx* 0.04, flx* 0.04, flx* 0.08, flx* 0.04, flx* 0.04, flx* 0.04, flx* 0.04, flx* 0.04, ]; 
-local wheel_y = [ -fly*0.22, -fly*0.105, fly*0.0, fly*0.105, fly*0.215, fly*0.325, fly*0.440, fly*0.565, fly*0.680 fly*0.795, fly*0.910, fly*0.99, ];
+local wheel_y = [ -fly*0.22, -fly*0.105, fly*0.0, fly*0.105, fly*0.215, fly*0.325, fly*0.440, fly*0.565, fly*0.680 fly*0.785, fly*0.90, fly*0.99, ];
 local wheel_w = [ flw*0.13, flw*0.13, flw*0.13, flw*0.13, flw*0.13, flw*0.13, flw*0.13, flw*0.13, flw*0.13, flw*0.13, flw*0.13, flw*0.13, ];
 local wheel_a = [  80,  80,  80,  80,  80,  80, 255,  80,  80,  80,  80,  80, ];
 local wheel_h = [  flh*0.102,  flh*0.102,  flh*0.102,  flh*0.102,  flh*0.102,  flh*0.102, flh*0.102,  flh*0.102,  flh*0.102,  flh*0.102,  flh*0.102,  flh*0.102, ];
